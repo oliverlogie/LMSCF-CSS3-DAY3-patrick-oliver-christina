@@ -16,7 +16,6 @@ a {
 	color: white;
 }
 
-
 #link1 a:hover {
 	color: #ff6dd8;
 	text-shadow: 1px 1px black;
@@ -28,30 +27,32 @@ a {
 	font-size: 30pt;
 	text-shadow: 1px 1px black;
 	font-weight: bold;
-	color: white;
+	color: green;
 }
 
 #link3 a:hover {
 	font-family: monospace;
 	text-shadow: 1px 1px black;
 	font-weight: bold;
-	color: white;
+	color: blue;
 }
 
+
 #link4 a:hover {
+
 	text-shadow: 1px 1px black;
 	font-weight: bold;
-	color: white;
+	color: red;
 }
 
 #link5 a:hover {
 	text-shadow: 1px 1px black;
 	font-weight: bold;
-	color: white;
+	color: orange;
 }
 
 #link6 a:hover {
 	text-shadow: 1px 1px black;
 	font-weight: bold;
-	color: white;
+	color: black;
 }
