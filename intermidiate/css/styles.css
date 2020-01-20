@@ -1,24 +1,21 @@
-/* *{
-	width: 0px;
-	height: 0px;
-} */
+.comparisontable{
+    display: flex;
+    flex-direction: row; /* turn children ul elements into stacked rows */
+}
 
 
-.container{
-	width: 300px;
-	height: 600px;
-	border: solid black 1px;
-	margin-left: 50px;
+.row{
+	list-style: none;
 }
 
 p{
-	font-size: 15px;
+	font-size:10px;
 }
 
 li {
-	font-size: 14px;
+	font-size:10px;
 }
 
 ul {
-	font-size: 12px;
+	font-size: 10px;
 }
