@@ -16,42 +16,42 @@ a {
 	color: white;
 }
 
-#link1{
-}
-
 #link1 a:hover {
 	color: #ff6dd8;
 	text-shadow: 1px 1px black;
 	font-weight: bold;
+	background-color: black;
 }
 	
-#link2:hover {
+#link2 a:hover {
 	font-size: 30pt;
 	text-shadow: 1px 1px black;
 	font-weight: bold;
 	color: white;
 }
 
-#link3:hover {
+#link3 a:hover {
 	font-family: monospace;
 	text-shadow: 1px 1px black;
 	font-weight: bold;
 	color: white;
 }
 
-#link4:hover {
+
+#link4 a:hover {
+
 	text-shadow: 1px 1px black;
 	font-weight: bold;
 	color: white;
 }
 
-#link5 {
+#link5 a:hover {
 	text-shadow: 1px 1px black;
 	font-weight: bold;
 	color: white;
 }
 
-#link6 {
+#link6 a:hover {
 	text-shadow: 1px 1px black;
 	font-weight: bold;
 	color: white;
