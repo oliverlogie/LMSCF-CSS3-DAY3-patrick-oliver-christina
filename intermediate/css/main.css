@@ -3,23 +3,49 @@
 }
 
 .container {
-	display: flex;
+	width: 50%;
+	border: 1px solid;
+	padding: 4px;
+}
+
+p {
+	font-size: 0.7em;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	margin: 0;
+	padding: 0;
+	font-size: 1.7em;
+}
+
+
+.under-line {
+	border-bottom: 0.8em solid;
 }
 
 .row {
 	list-style: none;
 	display: flex;
 	flex: 1;
-	flex-wrap: wrap;
-	line-height: 0;
 	margin: 0;
+	padding: 0;
 }
 
 .row li {
 	flex: 1;
-	padding: 10px;
+	padding: 0;
 	border-bottom: 1px solid black;
-	font-size: 0.8em
+	font-size: 0.6em;
+}
+
+.top-line {
+	border-top: solid 1px lightgrey;
+}
+
+.naked-table {
+	border: 0 0 0 0;
 }
 
 .column-1 {
