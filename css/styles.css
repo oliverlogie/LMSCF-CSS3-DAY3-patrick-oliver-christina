@@ -16,7 +16,10 @@ a {
 	color: white;
 }
 
-#link1:hover {
+#link1{
+}
+
+#link1 a:hover {
 	color: #ff6dd8;
 	text-shadow: 1px 1px black;
 	font-weight: bold;
@@ -36,7 +39,7 @@ a {
 	color: white;
 }
 
-#link4 {
+#link4:hover {
 	text-shadow: 1px 1px black;
 	font-weight: bold;
 	color: white;
