@@ -1,0 +1,24 @@
+/* *{
+	width: 0px;
+	height: 0px;
+} */
+
+
+.container{
+	width: 300px;
+	height: 600px;
+	border: solid black 1px;
+	margin-left: 50px;
+}
+
+p{
+	font-size: 15px;
+}
+
+li {
+	font-size: 14px;
+}
+
+ul {
+	font-size: 12px;
+}
