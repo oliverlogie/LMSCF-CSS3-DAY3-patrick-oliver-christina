@@ -1,6 +1,9 @@
+:root {
+	font-family: 'Roboto', sans-serif;
+}
+
 .container {
 	display: flex;
-	flex-direction: column;
 }
 
 .row {
@@ -17,5 +20,22 @@
 	padding: 10px;
 	border-bottom: 1px solid black;
 	font-size: 0.8em
+}
+
+.column-1 {
+	display: flex;
+	justify-content: flex-start;
+}
+
+.column-2 {
+	display: flex;
+	justify-content: flex-end;
+	flex-flow: wrap;
+}
+
+.column-3 {
+	display: flex;
+	justify-content: flex-end;
+	flex-flow: wrap;
 }
 
