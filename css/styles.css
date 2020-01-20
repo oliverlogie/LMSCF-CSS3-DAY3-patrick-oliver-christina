@@ -1,0 +1,55 @@
+nav {
+	display: flex;
+	flex-flow: row;
+	background: grey;
+	margin-top: 5%;
+}
+
+li {
+	flex: 1;
+	display: inline;
+	padding: 1em 2em 1em 2em;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+#link1:hover {
+	color: #ff6dd8;
+	text-shadow: 1px 1px black;
+	font-weight: bold;
+}
+	
+#link2:hover {
+	font-size: 30pt;
+	text-shadow: 1px 1px black;
+	font-weight: bold;
+	color: white;
+}
+
+#link3:hover {
+	font-family: monospace;
+	text-shadow: 1px 1px black;
+	font-weight: bold;
+	color: white;
+}
+
+#link4 {
+	text-shadow: 1px 1px black;
+	font-weight: bold;
+	color: white;
+}
+
+#link5 {
+	text-shadow: 1px 1px black;
+	font-weight: bold;
+	color: white;
+}
+
+#link6 {
+	text-shadow: 1px 1px black;
+	font-weight: bold;
+	color: white;
+}
